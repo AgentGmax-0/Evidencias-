@@ -34,6 +34,10 @@ body
     border: 1px solid #000000;
     margin: 0 auto;
 }
+#post
+{
+    font-family: "Arial";
+}
 
 #container h1
 {
@@ -43,4 +47,6 @@ body
 #post
 {
     padding: 1em;
+    text-align: right;
+    font-family: 'Times New Roman';
 }
